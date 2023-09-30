@@ -16,8 +16,8 @@
 - [Contributor](#Contributor)
 - [Thanks](#Thanks)
 - [Lisence](#Lisence)
-    - [view](LISENCE)
-        <!--LISENCE file to be set-->
+    - [view](LICENSE)
+        <!--LICENSE file to be set-->
 
 ## Introduction
 
@@ -29,4 +29,4 @@
 
 ## Thanks
 
-## Lisence
+## License
